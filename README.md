@@ -45,3 +45,7 @@ Katherine Quiñones
 <img width="1917" height="1022" alt="imagen pila 2" src="https://github.com/user-attachments/assets/ca6fda31-4505-4371-acae-92317e96ab50" />
 <img width="1917" height="1022" alt="imagen pila 3" src="https://github.com/user-attachments/assets/6c9d6a75-c1be-4f29-885f-34a6c203f4a1"<img width="1919" height="1022" alt="imagen pila 4" src="https://github.com/user-attachments/assets/8c2c1b4b-affe-407a-a1d6-6d4ce61f449b" />
  />
+<img width="1913" height="1022" alt="imagen pila 1" src="https://github.com/user-attachments/assets/3062b6e7-b4fb-4548-a6a9-ab690b5d287b" />
+<img width="1917" height="1022" alt="imagen pila 2" src="https://github.com/user-attachments/assets/622da5ac-8c72-464e-960c-d08f46acc35a" />
+<img width="1919" height="1022" alt="imagen pila 4" src="https://github.com/user-attachments/assets/958ca95f-47e6-441a-8dbb-c3eaa5ed359d" />
+<img width="1917" height="1022" alt="imagen pila 3" src="https://github.com/user-attachments/assets/b5b653f2-73b8-4494-be00-bb46cc35ab99" />
