@@ -1,3 +1,4 @@
+// Simulador de Undo/Redo usando pilas
 import java.util.Scanner;
 
 public class Main {
@@ -66,6 +67,7 @@ public class Main {
                 default:
                     System.out.println("Opcion invalida.");
             }
+            Agrego comentario descriptivo al código
 
         } while (opcion != 5);
 
